@@ -18,7 +18,7 @@
 
 > ​	ThoughtWorks由Roy Singham于20世纪80年代后期创立，是一家专业的IT服务型公司，在全球14个国家拥有40间办公室，5000+员工。下图是从公司成立至今的重要时间线：
 >
-> ![1](E:\QQPCmgr\Desktop\1.jpg)
+> ![1](https://github.com/Irrony/study/blob/3cf5179a168008581eed42bd29e750c5914eadaf/1.jpg)
 >
 > 更多的公司介绍可在[ThoughtWorks](https://baike.baidu.com/item/ThoughtWorks/5236600)查看哦~
 
