@@ -24,7 +24,7 @@
 
 - #### 企业使命
 
-> ![2](E:\QQPCmgr\Desktop\2.jpg)
+> ![2](https://github.com/Irrony/study/blob/master/2.jpg)
 >
 > ​      **经营可持续的业务                              推动IT变革，追求软件卓越                    积极提倡社会和经济公正**
 >
@@ -70,7 +70,7 @@
 >
 > 
 >
-> ![3](E:\QQPCmgr\Desktop\3.jpg)
+> ![3](https://github.com/Irrony/study/blob/master/3.jpg)
 
 
 
@@ -172,7 +172,7 @@
 >
 > ​	瀑布模型是第一个软件工程方法，也叫作顺序线性方法。传统的瀑布模型如下图所示：
 >
-> ![4](E:\QQPCmgr\Desktop\4.jpg)
+> ![4](https://github.com/Irrony/study/blob/master/4.jpg)
 >
 > 
 >
