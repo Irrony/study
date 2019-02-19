@@ -70,7 +70,7 @@
 >
 > 
 >
-> ![3]((https://github.com/Irrony/study/blob/master/3.jpg)
+>  ![3](https://github.com/Irrony/study/blob/master/3.jpg)
 
 
 
