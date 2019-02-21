@@ -1,0 +1,243 @@
+body{
+	width:100%;height:100%;margin:0 auto;background-color:#80a8cc;
+}
+
+.div{
+	position:absolute;left:460px;width:700px;height:100px;background:#FFFFFF; 
+	box-shadow:-4px 6px 8px -2px rgba(0, 0, 0, 0.1), 4px 6px 8px -2px rgba(0, 0, 0, 0.1); 
+}
+
+.div_1 {
+	position:absolute;top:100px;left:90px;width:1600px;height:100px;background:#FFFFFF; 
+}
+
+.div_2 {
+	position:absolute;top:994px;left:90px;width:1600px;height:580px;background:#FFFFFF; 
+}
+
+.div_3 {
+	position:absolute;top:1574px;left:90px;width:1600px;height:700px;background:#91d0b1;
+}
+
+.div_4 {
+	position:absolute;top:2274px;left:90px;width:1600px;height:650px;background:#ffcd62;
+}
+
+.div_5 {
+	position:absolute;top:2924px;left:90px;width:1600px;height:700px;background:#80a8cc;
+	box-shadow:-4px 6px 8px -2px rgba(0, 0, 0, 0.1), 4px 6px 8px -2px rgba(0, 0, 0, 0.1);
+}
+
+.div_6 {
+	position:absolute;top:3624px;left:90px;width:1600px;height:840px;background:#FFFFFF;
+}
+
+.div_7 {
+	position:absolute;top:350px;left:230px;width:350px;height:350px;background:#FFFFFF;
+	border-style:solid;border-width:2px;border-color:#d8d6d5;border-radius: 10px;
+}
+
+.div_8 {
+	position:absolute;top:350px;left:610px;width:350px;height:350px;background:#FFFFFF;
+	border-style:solid;border-width:2px;border-color:#d8d6d5;border-radius: 10px;
+}
+
+.div_9 {
+	position:absolute;top:350px;left:990px;width:350px;height:350px;background:#FFFFFF;
+	border-style:solid;border-width:2px;border-color:#d8d6d5;border-radius: 10px;
+}
+
+.div_10 {
+	position:absolute;top:4464px;left:90px;width:1600px;height:100px;background:#4d4e59;
+}
+
+.div_11 {
+	position:absolute;top:4664px;width:100%;height:80px;background:#4d4e59;
+}
+
+.p_1 p{
+	position:absolute;top:25px;left:485px;font-family: Arial;color:#d8d6d5;font-size: 19px;
+}
+
+.p_2 p{
+	display:inline-block;transform:scale(1,2);position:absolute;top:450px;left:410px;
+	font-family: Times New Roman;color:#FFFFFF;font-size:40px;
+}
+
+.p_3 p{
+	display:inline-block;transform:scale(1,1.5);position:absolute;top:100px;left:700px;
+	font-family: Times New Roman;color:#4d4e59;font-size:52px;
+}
+
+.p_4 p{
+	position:absolute;top:200px;left:250px;font-family: Arial;color:#4d4e59;font-size:36px;
+}
+
+.p_5 p{
+	position:absolute;top:250px;left:500px;font-family: Arial;color:#4d4e59;font-size:36px;
+}
+
+.p_6 p{
+	display:inline-block;transform:scale(1,1.5);position:absolute;top:170px;left:780px;font-family: Times New Roman;color:#fcf9f4;font-size:52px;
+}
+
+.p_7 p{
+	position:absolute;top:270px;left:778px;font-family: Arial;color:#fcf9f4;font-size:30px;
+}
+
+.p_8 p{
+	display:inline-block;transform:scale(1,1.8);position:absolute;top:120px;left:255px;font-family: Times New Roman;color:#fcf9f4;font-size:52px;
+}
+
+.p_9 p{
+	position:absolute;top:230px;left:255px;font-family: Arial;color:#fcf9f4;font-size:30px;
+}
+
+.p_10 p{
+	display:inline-block;transform:scale(1,1.5);position:absolute;top:170px;left:780px;font-family: Times New Roman;color:#fcf9f4;font-size:52px;
+}
+
+.p_11 p{
+	position:absolute;top:270px;left:778px;font-family: Arial;color:#fcf9f4;font-size:30px;
+}
+
+.p_12 p{
+	display:inline-block;transform:scale(1,1.5);position:absolute;top:150px;left:600px;font-family: Times New Roman;color:#909094;font-size:52px;
+}
+
+.p_13 p{
+	display:inline-block;transform:scale(1,1.5);position:absolute;top:5px;left:75px;font-family: Times New Roman;color:#91d0b1;font-size:72px;
+}
+
+.p_14 p{
+	position:absolute;top:230px;left:115px;font-family: Arial;color:#91d0b1;font-size:16px;font-weight: bold;
+}
+
+.p_15 p{
+	display:inline-block;transform:scale(1,1.5);position:absolute;top:5px;left:75px;font-family: Times New Roman;color:#ffcd62;font-size:72px;
+}
+
+.p_16 p{
+	position:absolute;top:230px;left:115px;font-family: Arial;color:#ffcd62;font-size:16px;font-weight: bold;
+}
+
+.p_17 p{
+	display:inline-block;transform:scale(1,1.5);position:absolute;top:5px;left:120px;font-family: Times New Roman;color:#80a8cc;font-size:72px;
+}
+
+.p_18 p{
+	position:absolute;top:230px;left:115px;font-family: Arial;color:#80a8cc;font-size:16px;font-weight: bold;
+}
+
+.p_19 p{
+	position:absolute;top:30px;left:700px;font-family: Arial;color:#d4d2d0;font-size:16px;font-weight: bold;
+}
+
+.button_1 button{
+	position:absolute;top:30px;right:250px;width: 150px; height: 40px; background:rgba(255, 251, 240, 0.1); border-style:solid;border-width:2px;
+	border-color:#d8d6d5;border-radius: 10px;text-align: center;color: #4d4e59; font-size: 18px; font-weight: bold;
+}
+
+.button_2 button{
+	position:absolute;top:600px;left:580px;width: 270px; height: 60px; background:rgba(255, 251, 240, 0.1); border-style:solid;border-width:2px;
+	border-color:#d8d6d5;border-radius: 10px;text-align: center;color: #FFFFFF; font-size: 24px; font-weight: bold;font-family: Arial;
+}
+
+.button_3 button{
+	position:absolute;top:600px;left:880px;width: 270px; height: 60px; background:rgba(255, 251, 240, 0.3); border-style: none; border-radius: 10px;
+    text-align: center;color: #FFFFFF; font-size: 24px; font-weight: bold;font-family: Arial;
+}
+
+.button_4 button{
+	position:absolute;bottom:180px;left:650px;width: 270px; height: 60px; background:#ffcd62; border-style: none; border-radius: 10px;
+    text-align: center;color: #636471; font-size: 24px; font-weight: bold;font-family: Arial;
+}
+
+.button_5 button{
+	position:absolute;bottom:145px;left:778px;width: 300px; height: 60px; background:rgba(124, 182, 154); border-style: none; border-radius: 5px;
+    text-align: center;font-size: 24px; font-weight: bold;font-family: Arial;
+}
+
+.button_6 button{
+	position:absolute;top:435px;left:255px;width: 300px; height: 60px; background:rgba(234, 188, 91); border-style: none; border-radius: 5px;
+    text-align: center;font-size: 24px; font-weight: bold;font-family: Arial;
+}
+
+.button_7 button{
+	position:absolute;bottom:145px;left:778px;width: 300px; height: 60px; background:rgba(109, 145, 177); border-style: none; border-radius: 5px;
+	text-align: center;font-size:24px; font-weight: bold;font-family: Arial;
+}
+
+.img_1 img{
+	position:absolute;top:0px;left:280px;width:150px;height:100px; 
+}
+
+.img_2 img{
+	position:absolute;top:200px;left:90px;width:1600px;height:794px;opacity:0.20; 
+}
+
+.img_3 img{
+	position:absolute;top:150px;right:290px;width:360px;height:360px; 
+}
+
+.img_4 img{
+	position:absolute;top:200px;left:250px;width:390px;height:330px; 
+}
+
+.img_5 img{
+	position:absolute;width:180px;height:78px; 
+}
+
+
+
+.circle_1{
+	position:absolute;top:50px;left:150px;width:8px;height:8px;background-color:#000000;border-radius:4px;
+}
+
+.circle_2{
+	position:absolute;top:20px;left:450px;width:8px;height:8px;background-color:#000000;border-radius:4px;
+}
+
+.circle_3 {
+	position:absolute;top:320px;left:1450px;width:18px;height:18px;background-color:#FFFFFF;border-radius:9px;
+}
+
+.circle_4 {
+	position:absolute;top:350px;left:1450px;width:18px;height:18px;background-color: rgba(124, 182, 154);border-radius:9px;
+}
+
+.circle_5 {
+	position:absolute;top:380px;left:1450px;width:18px;height:18px;background-color:rgba(124, 182, 154);border-radius:9px;
+}
+
+.circle_6 {
+	position:absolute;top:180px;left:312px;width:330px;height:330px;background-color:rgba(124, 182, 154);border-radius:165px;
+}
+
+.circle_7 {
+	position:absolute;top:20px;left:25px;width:50px;height:50px;background-color:rgba(124, 182, 154);border-radius:25px;
+}
+
+.half_circle_1{
+	position:absolute;top:70px;left:15px;width:70px;height:44px; background-color:rgba(124, 182, 154);border-radius:50px 50px 0 0;
+}
+
+.box_1{
+	position: absolute;top: 280px;left:390px;width: 180px;height:130px; background: #91d0b1;border-radius: 10px;
+}
+
+.box_2{
+	position: absolute;top: 20px;left:90px;width: 60px;height:25px;background: rgba(124, 182, 154);border-radius: 5px;
+}
+
+.box_3{
+	position: absolute;top: 54px;left:90px;width: 60px;height:25px;background: rgba(124, 182, 154);border-radius: 5px;
+}
+
+.box_4{
+	position: absolute;top: 89px;left:90px;width: 60px;height:25px;background: rgba(124, 182, 154);border-radius: 5px;
+}
+
+.box_5{
+	position: absolute;top: 55px;left:39px;width: 22px;height:20px; background:rgba(124, 182, 154); border-radius: 5px;
+}
